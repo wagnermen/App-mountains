@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777665692802",
+    "project_id": "androidchallenge-28035",
+    "storage_bucket": "androidchallenge-28035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777665692802:android:e1f2fa4eb1f3f940b4e09b",
+        "android_client_info": {
+          "package_name": "com.example.touristplaces"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGZYE4ozlVne5_IWzVuCrE_6KsT-H9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
